@@ -1,0 +1,14 @@
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolDAL\bin\Debug\SchoolDAL.dll.config
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolDAL\bin\Debug\SchoolDAL.dll
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolDAL\bin\Debug\SchoolDAL.pdb
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolDAL\bin\Debug\EntityFramework.dll
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolDAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolDAL\bin\Debug\SchoolEntities.dll
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolDAL\bin\Debug\SchoolEntities.pdb
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolDAL\bin\Debug\EntityFramework.xml
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolDAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolDAL\obj\Debug\SchoolDAL.csproj.AssemblyReference.cache
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolDAL\obj\Debug\SchoolDAL.csproj.CoreCompileInputs.cache
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolDAL\obj\Debug\SchoolDAL.csproj.CopyComplete
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolDAL\obj\Debug\SchoolDAL.dll
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolDAL\obj\Debug\SchoolDAL.pdb
