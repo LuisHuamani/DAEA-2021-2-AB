@@ -1,0 +1,12 @@
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\Lab11-A\Lab11-A\bin\Debug\Lab11-A.exe.config
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\Lab11-A\Lab11-A\bin\Debug\Lab11-A.exe
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\Lab11-A\Lab11-A\bin\Debug\Lab11-A.pdb
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\Lab11-A\Lab11-A\bin\Debug\EntityFramework.dll
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\Lab11-A\Lab11-A\bin\Debug\EntityFramework.SqlServer.dll
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\Lab11-A\Lab11-A\bin\Debug\EntityFramework.xml
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\Lab11-A\Lab11-A\bin\Debug\EntityFramework.SqlServer.xml
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\Lab11-A\Lab11-A\obj\Debug\Lab11-A.csproj.AssemblyReference.cache
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\Lab11-A\Lab11-A\obj\Debug\Lab11-A.csproj.CoreCompileInputs.cache
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\Lab11-A\Lab11-A\obj\Debug\Lab11-A.csproj.CopyComplete
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\Lab11-A\Lab11-A\obj\Debug\Lab11-A.exe
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\Lab11-A\Lab11-A\obj\Debug\Lab11-A.pdb

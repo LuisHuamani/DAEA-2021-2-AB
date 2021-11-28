@@ -1,0 +1,14 @@
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolBLL\bin\Debug\SchoolBLL.dll
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolBLL\bin\Debug\SchoolBLL.pdb
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolBLL\bin\Debug\SchoolDAL.dll
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolBLL\bin\Debug\SchoolEntities.dll
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolBLL\bin\Debug\EntityFramework.dll
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolBLL\bin\Debug\SchoolDAL.pdb
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolBLL\bin\Debug\SchoolDAL.dll.config
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolBLL\bin\Debug\SchoolEntities.pdb
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolBLL\bin\Debug\EntityFramework.xml
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolBLL\obj\Debug\SchoolBLL.csproj.AssemblyReference.cache
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolBLL\obj\Debug\SchoolBLL.csproj.CoreCompileInputs.cache
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolBLL\obj\Debug\SchoolBLL.csproj.CopyComplete
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolBLL\obj\Debug\SchoolBLL.dll
+E:\DAEA-2021-2-AB\DAEA-2021-2-AB\Lab11\SchoolApp\SchoolBLL\obj\Debug\SchoolBLL.pdb
